@@ -1,5 +1,3 @@
-# blogs
-
 # Tools
 
 - WordCounter - https://wordcounter.world
